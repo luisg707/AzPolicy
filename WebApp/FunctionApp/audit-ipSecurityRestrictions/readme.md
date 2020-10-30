@@ -4,7 +4,7 @@ This policy audit's all Function Apps that allow internet connectivity
 
 ## Try on Portal
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#blade/Microsoft_Azure_Policy/CreatePolicyDefinitionBlade/uri/https://raw.githubusercontent.com/DaFitRobsta/AzPolicy/main/WebApp/FunctionApp/audit-ipSecurityRestrictions/azurepolicy.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#blade/Microsoft_Azure_Policy/CreatePolicyDefinitionBlade/uri/https%3a%2f%2fraw.githubusercontent.com%2fDaFitRobsta%2fAzPolicy%2fmain%2fWebApp%2fFunctionApp%2faudit-ipSecurityRestrictions%2fazurepolicy.json)
 
 ## Try with PowerShell
 
