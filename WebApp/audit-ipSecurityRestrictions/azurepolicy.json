@@ -1,8 +1,8 @@
 {
     "properties": {
-      "displayName": "Audit Internet access to your Web Apps",
+      "displayName": "Audit Internet access to your Function Apps",
       "mode": "Indexed",
-      "description": "Audit web apps that are exposed to the internet",
+      "description": "Audit function apps that are exposed to the internet",
       "metadata": {
         "category": "App Service",
         "version": "1.0.0"
@@ -30,7 +30,7 @@
             },
             {
               "field": "kind",
-              "like": "app*"
+              "like": "functionapp*"
             }
           ]
         },
